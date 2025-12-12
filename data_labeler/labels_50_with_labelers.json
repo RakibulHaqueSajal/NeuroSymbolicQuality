@@ -1,0 +1,1402 @@
+{
+    "IQ001": {
+        "labeler": {
+            "Bieging": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 5.0,
+                "enhancement_of_fibrous_tissue": 5.0
+            },
+            "Rafi": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Ben": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 5.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Eugene": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            }
+        }
+    },
+    "IQ002": {
+        "labeler": {
+            "Bieging": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 5.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Rafi": {
+                "quality_for_fibrosis_assessment": 5.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 5.0,
+                "enhancement_of_fibrous_tissue": 5.0
+            },
+            "Ben": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Eugene": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 5.0,
+                "myocardium_nulling": 5.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            }
+        }
+    },
+    "IQ003": {
+        "labeler": {
+            "Bieging": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Rafi": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            },
+            "Ben": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            },
+            "Eugene": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            }
+        }
+    },
+    "IQ004": {
+        "labeler": {
+            "Bieging": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            },
+            "Rafi": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Ben": {
+                "quality_for_fibrosis_assessment": 2.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Eugene": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            }
+        }
+    },
+    "IQ005": {
+        "labeler": {
+            "Bieging": {
+                "quality_for_fibrosis_assessment": 5.0,
+                "sharpness": 5.0,
+                "myocardium_nulling": 5.0,
+                "enhancement_of_fibrous_tissue": 5.0
+            },
+            "Rafi": {
+                "quality_for_fibrosis_assessment": 5.0,
+                "sharpness": 5.0,
+                "myocardium_nulling": 5.0,
+                "enhancement_of_fibrous_tissue": 5.0
+            },
+            "Ben": {
+                "quality_for_fibrosis_assessment": 5.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 5.0,
+                "enhancement_of_fibrous_tissue": 5.0
+            },
+            "Eugene": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 5.0,
+                "enhancement_of_fibrous_tissue": 5.0
+            }
+        }
+    },
+    "IQ006": {
+        "labeler": {
+            "Bieging": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Rafi": {
+                "quality_for_fibrosis_assessment": 5.0,
+                "sharpness": 5.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 5.0
+            },
+            "Ben": {
+                "quality_for_fibrosis_assessment": 5.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 5.0
+            },
+            "Eugene": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 5.0
+            }
+        }
+    },
+    "IQ007": {
+        "labeler": {
+            "Bieging": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Rafi": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Ben": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Eugene": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            }
+        }
+    },
+    "IQ008": {
+        "labeler": {
+            "Bieging": {
+                "quality_for_fibrosis_assessment": 1.0,
+                "sharpness": 2.0,
+                "myocardium_nulling": 1.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            },
+            "Rafi": {
+                "quality_for_fibrosis_assessment": 2.0,
+                "sharpness": 2.0,
+                "myocardium_nulling": 2.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            },
+            "Ben": {
+                "quality_for_fibrosis_assessment": 1.0,
+                "sharpness": 2.0,
+                "myocardium_nulling": 1.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Eugene": {
+                "quality_for_fibrosis_assessment": 2.0,
+                "sharpness": 2.0,
+                "myocardium_nulling": 2.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            }
+        }
+    },
+    "IQ009": {
+        "labeler": {
+            "Bieging": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            },
+            "Rafi": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            },
+            "Ben": {
+                "quality_for_fibrosis_assessment": 2.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            },
+            "Eugene": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            }
+        }
+    },
+    "IQ010": {
+        "labeler": {
+            "Bieging": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 2.0,
+                "myocardium_nulling": 2.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Rafi": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 1.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Ben": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 5.0
+            },
+            "Eugene": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 2.0,
+                "enhancement_of_fibrous_tissue": 5.0
+            }
+        }
+    },
+    "IQ011": {
+        "labeler": {
+            "Bieging": {
+                "quality_for_fibrosis_assessment": 2.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 2.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            },
+            "Rafi": {
+                "quality_for_fibrosis_assessment": 2.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 2.0,
+                "enhancement_of_fibrous_tissue": 2.0
+            },
+            "Ben": {
+                "quality_for_fibrosis_assessment": 2.0,
+                "sharpness": 2.0,
+                "myocardium_nulling": 2.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Eugene": {
+                "quality_for_fibrosis_assessment": 2.0,
+                "sharpness": 2.0,
+                "myocardium_nulling": 2.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            }
+        }
+    },
+    "IQ012": {
+        "labeler": {
+            "Bieging": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Rafi": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Ben": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Eugene": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            }
+        }
+    },
+    "IQ013": {
+        "labeler": {
+            "Bieging": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 5.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Rafi": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Ben": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            },
+            "Eugene": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 5.0
+            }
+        }
+    },
+    "IQ014": {
+        "labeler": {
+            "Bieging": {
+                "quality_for_fibrosis_assessment": 2.0,
+                "sharpness": 2.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            },
+            "Rafi": {
+                "quality_for_fibrosis_assessment": 2.0,
+                "sharpness": 2.0,
+                "myocardium_nulling": 2.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            },
+            "Ben": {
+                "quality_for_fibrosis_assessment": 1.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 2.0,
+                "enhancement_of_fibrous_tissue": 2.0
+            },
+            "Eugene": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            }
+        }
+    },
+    "IQ015": {
+        "labeler": {
+            "Bieging": {
+                "quality_for_fibrosis_assessment": 1.0,
+                "sharpness": 1.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 2.0
+            },
+            "Rafi": {
+                "quality_for_fibrosis_assessment": 2.0,
+                "sharpness": 2.0,
+                "myocardium_nulling": 2.0,
+                "enhancement_of_fibrous_tissue": 2.0
+            },
+            "Ben": {
+                "quality_for_fibrosis_assessment": 1.0,
+                "sharpness": 1.0,
+                "myocardium_nulling": 1.0,
+                "enhancement_of_fibrous_tissue": 2.0
+            },
+            "Eugene": {
+                "quality_for_fibrosis_assessment": 1.0,
+                "sharpness": 2.0,
+                "myocardium_nulling": 2.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            }
+        }
+    },
+    "IQ016": {
+        "labeler": {
+            "Bieging": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 5.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            },
+            "Rafi": {
+                "quality_for_fibrosis_assessment": 2.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 2.0
+            },
+            "Ben": {
+                "quality_for_fibrosis_assessment": 2.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            },
+            "Eugene": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            }
+        }
+    },
+    "IQ017": {
+        "labeler": {
+            "Bieging": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 2.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            },
+            "Rafi": {
+                "quality_for_fibrosis_assessment": 2.0,
+                "sharpness": 2.0,
+                "myocardium_nulling": 2.0,
+                "enhancement_of_fibrous_tissue": 2.0
+            },
+            "Ben": {
+                "quality_for_fibrosis_assessment": 2.0,
+                "sharpness": 2.0,
+                "myocardium_nulling": 2.0,
+                "enhancement_of_fibrous_tissue": 2.0
+            },
+            "Eugene": {
+                "quality_for_fibrosis_assessment": 2.0,
+                "sharpness": 2.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            }
+        }
+    },
+    "IQ018": {
+        "labeler": {
+            "Bieging": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Rafi": {
+                "quality_for_fibrosis_assessment": 2.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 2.0
+            },
+            "Ben": {
+                "quality_for_fibrosis_assessment": 1.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            },
+            "Eugene": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            }
+        }
+    },
+    "IQ019": {
+        "labeler": {
+            "Bieging": {
+                "quality_for_fibrosis_assessment": 5.0,
+                "sharpness": 5.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 5.0
+            },
+            "Rafi": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Ben": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 5.0
+            },
+            "Eugene": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 5.0
+            }
+        }
+    },
+    "IQ021": {
+        "labeler": {
+            "Bieging": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 5.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            },
+            "Rafi": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            },
+            "Ben": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            },
+            "Eugene": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            }
+        }
+    },
+    "IQ022": {
+        "labeler": {
+            "Bieging": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 5.0
+            },
+            "Rafi": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Ben": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 5.0
+            },
+            "Eugene": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 5.0
+            }
+        }
+    },
+    "IQ024": {
+        "labeler": {
+            "Bieging": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 5.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            },
+            "Rafi": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Ben": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Eugene": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            }
+        }
+    },
+    "IQ025": {
+        "labeler": {
+            "Bieging": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Rafi": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Ben": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            },
+            "Eugene": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            }
+        }
+    },
+    "IQ026": {
+        "labeler": {
+            "Bieging": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            },
+            "Rafi": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            },
+            "Ben": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            },
+            "Eugene": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            }
+        }
+    },
+    "IQ027": {
+        "labeler": {
+            "Bieging": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Rafi": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            },
+            "Ben": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Eugene": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            }
+        }
+    },
+    "IQ028": {
+        "labeler": {
+            "Bieging": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Rafi": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Ben": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 5.0
+            },
+            "Eugene": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            }
+        }
+    },
+    "IQ029": {
+        "labeler": {
+            "Bieging": {
+                "quality_for_fibrosis_assessment": 5.0,
+                "sharpness": 5.0,
+                "myocardium_nulling": 5.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Rafi": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 5.0,
+                "enhancement_of_fibrous_tissue": 5.0
+            },
+            "Ben": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 5.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Eugene": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            }
+        }
+    },
+    "IQ030": {
+        "labeler": {
+            "Bieging": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Rafi": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Ben": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Eugene": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            }
+        }
+    },
+    "IQ031": {
+        "labeler": {
+            "Bieging": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 5.0,
+                "myocardium_nulling": 5.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Rafi": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 5.0
+            },
+            "Ben": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Eugene": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            }
+        }
+    },
+    "IQ032": {
+        "labeler": {
+            "Bieging": {
+                "quality_for_fibrosis_assessment": 5.0,
+                "sharpness": 5.0,
+                "myocardium_nulling": 5.0,
+                "enhancement_of_fibrous_tissue": 5.0
+            },
+            "Rafi": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 5.0
+            },
+            "Ben": {
+                "quality_for_fibrosis_assessment": 5.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 5.0,
+                "enhancement_of_fibrous_tissue": 5.0
+            },
+            "Eugene": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 5.0
+            }
+        }
+    },
+    "IQ033": {
+        "labeler": {
+            "Bieging": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Rafi": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 5.0
+            },
+            "Ben": {
+                "quality_for_fibrosis_assessment": 2.0,
+                "sharpness": 2.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 5.0
+            },
+            "Eugene": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 5.0
+            }
+        }
+    },
+    "IQ034": {
+        "labeler": {
+            "Bieging": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 5.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Rafi": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 5.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Ben": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 5.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            },
+            "Eugene": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            }
+        }
+    },
+    "IQ035": {
+        "labeler": {
+            "Bieging": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            },
+            "Rafi": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            },
+            "Ben": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            },
+            "Eugene": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            }
+        }
+    },
+    "IQ036": {
+        "labeler": {
+            "Bieging": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 5.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Rafi": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Ben": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Eugene": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            }
+        }
+    },
+    "IQ037": {
+        "labeler": {
+            "Bieging": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            },
+            "Rafi": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            },
+            "Ben": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            },
+            "Eugene": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            }
+        }
+    },
+    "IQ038": {
+        "labeler": {
+            "Bieging": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Rafi": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Ben": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Eugene": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            }
+        }
+    },
+    "IQ039": {
+        "labeler": {
+            "Bieging": {
+                "quality_for_fibrosis_assessment": 5.0,
+                "sharpness": 5.0,
+                "myocardium_nulling": 5.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Rafi": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Ben": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 5.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Eugene": {
+                "quality_for_fibrosis_assessment": 5.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 5.0,
+                "enhancement_of_fibrous_tissue": 5.0
+            }
+        }
+    },
+    "IQ040": {
+        "labeler": {
+            "Bieging": {
+                "quality_for_fibrosis_assessment": 5.0,
+                "sharpness": 5.0,
+                "myocardium_nulling": 5.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Rafi": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Ben": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 5.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Eugene": {
+                "quality_for_fibrosis_assessment": 5.0,
+                "sharpness": 5.0,
+                "myocardium_nulling": 5.0,
+                "enhancement_of_fibrous_tissue": 5.0
+            }
+        }
+    },
+    "IQ041": {
+        "labeler": {
+            "Bieging": {
+                "quality_for_fibrosis_assessment": 5.0,
+                "sharpness": 5.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 5.0
+            },
+            "Rafi": {
+                "quality_for_fibrosis_assessment": 5.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 5.0,
+                "enhancement_of_fibrous_tissue": 5.0
+            },
+            "Ben": {
+                "quality_for_fibrosis_assessment": 5.0,
+                "sharpness": 5.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 5.0
+            },
+            "Eugene": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            }
+        }
+    },
+    "IQ042": {
+        "labeler": {
+            "Bieging": {
+                "quality_for_fibrosis_assessment": 2.0,
+                "sharpness": 2.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Rafi": {
+                "quality_for_fibrosis_assessment": 2.0,
+                "sharpness": 2.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            },
+            "Ben": {
+                "quality_for_fibrosis_assessment": 2.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 5.0
+            },
+            "Eugene": {
+                "quality_for_fibrosis_assessment": 2.0,
+                "sharpness": 2.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            }
+        }
+    },
+    "IQ043": {
+        "labeler": {
+            "Bieging": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 5.0
+            },
+            "Rafi": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Ben": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 5.0
+            },
+            "Eugene": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 5.0
+            }
+        }
+    },
+    "IQ044": {
+        "labeler": {
+            "Bieging": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 5.0,
+                "myocardium_nulling": 5.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Rafi": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            },
+            "Ben": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 5.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            },
+            "Eugene": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 5.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            }
+        }
+    },
+    "IQ045": {
+        "labeler": {
+            "Bieging": {
+                "quality_for_fibrosis_assessment": 1.0,
+                "sharpness": 1.0,
+                "myocardium_nulling": 2.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            },
+            "Rafi": {
+                "quality_for_fibrosis_assessment": 2.0,
+                "sharpness": 2.0,
+                "myocardium_nulling": 2.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            },
+            "Ben": {
+                "quality_for_fibrosis_assessment": 2.0,
+                "sharpness": 2.0,
+                "myocardium_nulling": 2.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Eugene": {
+                "quality_for_fibrosis_assessment": 2.0,
+                "sharpness": 2.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            }
+        }
+    },
+    "IQ046": {
+        "labeler": {
+            "Bieging": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            },
+            "Rafi": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            },
+            "Ben": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            },
+            "Eugene": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            }
+        }
+    },
+    "IQ047": {
+        "labeler": {
+            "Bieging": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            },
+            "Rafi": {
+                "quality_for_fibrosis_assessment": 2.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            },
+            "Ben": {
+                "quality_for_fibrosis_assessment": 2.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            },
+            "Eugene": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            }
+        }
+    },
+    "IQ048": {
+        "labeler": {
+            "Bieging": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Rafi": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Ben": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Eugene": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 5.0,
+                "enhancement_of_fibrous_tissue": 5.0
+            }
+        }
+    },
+    "IQ049": {
+        "labeler": {
+            "Bieging": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 5.0
+            },
+            "Rafi": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Ben": {
+                "quality_for_fibrosis_assessment": 2.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 5.0
+            },
+            "Eugene": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            }
+        }
+    },
+    "IQ050": {
+        "labeler": {
+            "Bieging": {
+                "quality_for_fibrosis_assessment": 2.0,
+                "sharpness": 2.0,
+                "myocardium_nulling": 5.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            },
+            "Rafi": {
+                "quality_for_fibrosis_assessment": 2.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 2.0
+            },
+            "Ben": {
+                "quality_for_fibrosis_assessment": 2.0,
+                "sharpness": 2.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 2.0
+            },
+            "Eugene": {
+                "quality_for_fibrosis_assessment": 2.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 2.0
+            }
+        }
+    },
+    "IQ051": {
+        "labeler": {
+            "Bieging": {
+                "quality_for_fibrosis_assessment": 4.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Rafi": {
+                "quality_for_fibrosis_assessment": 2.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            },
+            "Ben": {
+                "quality_for_fibrosis_assessment": 2.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            },
+            "Eugene": {
+                "quality_for_fibrosis_assessment": 2.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            }
+        }
+    },
+    "IQ052": {
+        "labeler": {
+            "Bieging": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            },
+            "Rafi": {
+                "quality_for_fibrosis_assessment": 2.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 3.0
+            },
+            "Ben": {
+                "quality_for_fibrosis_assessment": 2.0,
+                "sharpness": 4.0,
+                "myocardium_nulling": 3.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            },
+            "Eugene": {
+                "quality_for_fibrosis_assessment": 3.0,
+                "sharpness": 3.0,
+                "myocardium_nulling": 4.0,
+                "enhancement_of_fibrous_tissue": 4.0
+            }
+        }
+    }
+}
